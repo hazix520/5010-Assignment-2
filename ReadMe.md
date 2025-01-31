@@ -9,6 +9,7 @@ Written Instructions:
 6. Create two black ellipses for the eyes and one black circle for the mouth
 7. Create copies of the ghost, scale them down and offset them
 
-Output: <img width="397" alt="Screenshot 2025-01-31 at 12 44 13 PM" src="https://github.com/user-attachments/assets/a0175e12-2cc2-4933-b035-2e64a2c73964" />
+Output: 
+<img width="397" alt="Screenshot 2025-01-31 at 12 44 13 PM" src="https://github.com/user-attachments/assets/a0175e12-2cc2-4933-b035-2e64a2c73964" />
 
 Link to Script: https://editor.p5js.org/hunter.e.simone/sketches/5mbWHxhQz
